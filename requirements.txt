@@ -2,6 +2,5 @@ flask
 tensorflow-cpu
 gunicorn
 pillow
-opencv-python
-opencv-python-headless==4.2.0.32
+opencv-contrib-python-headless
 numpy
